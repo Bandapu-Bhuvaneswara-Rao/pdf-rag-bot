@@ -1,0 +1,10 @@
+flask
+flask-cors
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+openai
+tiktoken
+groq
